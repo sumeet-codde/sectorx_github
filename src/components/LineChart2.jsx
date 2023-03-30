@@ -54,8 +54,8 @@ const LineChart2 = ({ coinHistory, currentPrice, coinName }) => {
       {
         label: 'Dataset 1',
         data: coinPrice,
-        borderColor: 'rgb(255, 99, 132)',
-        backgroundColor: 'rgba(255, 99, 132, 0.5)',
+        borderColor: 'rgb(0,0,0)
+        backgroundColor: 'rgba(0, 0, 0,)',
       }
     ],
   };
