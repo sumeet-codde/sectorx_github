@@ -56,6 +56,7 @@ const LineChart2 = ({ coinHistory, currentPrice, coinName }) => {
         data: coinPrice,
         borderColor: 'rgb(0,0,0)
         backgroundColor: 'rgba(0, 0, 0,)',
+        pointradius:0
       }
     ],
   };
